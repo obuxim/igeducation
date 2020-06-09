@@ -15,7 +15,7 @@ Inspiren Global Education Ltd or IG Education is an UK based education consultan
 [Hosted in AWS https://dev.zubairhasan.com/ig](https://dev.zubairhasan.com/ig)
 
 ##### What's the stack?
-- Laravel
+- [Laravel](https://laravel.com)
 - Bootstrap
 - Bootswatch
 - Font Awesome

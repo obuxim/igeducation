@@ -1,0 +1,4 @@
+.logo{ max-height: 84px; }
+header .nav-item { margin-right: 1rem; }
+header .nav-item:last-of-type { margin-right: 0; }
+#mobileMenu{ position: fixed; top: 0; left: 0; width: 80vw; height: 100vh; z-index: 9999; }

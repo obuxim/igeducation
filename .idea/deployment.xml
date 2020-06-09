@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="dev.zubairhasan.com" uploadOnCheckin="b70249e9-c7b8-48cb-9ef3-29a6fe2246b6">
+    <serverData>
+      <paths name="dev.zubairhasan.com">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/public_html/ig/vendor" />
+            <excludedPath local="true" path="$PROJECT_DIR$/vendor" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="dev.zubairhasan.com" />
+  </component>
+</project>
